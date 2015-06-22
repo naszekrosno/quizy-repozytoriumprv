@@ -1,0 +1,4 @@
+<?
+echo "git is oK";
+?>
+
